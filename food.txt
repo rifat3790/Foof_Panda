@@ -1,0 +1,116 @@
+Charlie
+Teriyaki Chicken
+157
+8
+Charlie
+Chicken Combo
+144
+9
+Charlie
+Beef Chili
+169
+12
+Charlie
+Chicken Tikka
+238
+5
+Charlie
+Fish Box
+255
+14
+Charlie
+Beef Hot Dog
+254
+4
+Charlie
+Chicken Burger
+340
+20
+Charlie
+Double Beef Burger
+382
+21
+Charlie
+Rib Eye
+425
+11
+KFC
+Classic Zinger Meal
+949
+12
+KFC
+Tangy Fries 1
+199
+10
+KFC
+Tangy Fries 2
+179
+10
+KFC
+Gravy
+39
+30
+KFC
+Rizo Rice
+99
+13
+KFC
+Hot Wings (3)
+159
+20
+KFC
+Hot Wings (6)
+299
+10
+KFC
+Super Burger
+309
+16
+KFC
+Zinger Burger
+369
+16
+KFC
+Classic Burger
+599
+7
+KFC
+Mixed Zinger Double
+749
+14
+KFC
+Rice Bowlz
+249
+17
+Kavazo
+Choux Pastry
+360
+9
+Kavazo
+Cheese Cake
+495
+23
+Kavazo
+Lemon Tart
+720
+12
+Kavazo
+Green Tea
+216
+33
+Kavazo
+Americano
+162
+14
+Kavazo
+Cappuccino
+216
+17
+Kavazo
+Latte
+216
+8
+Kaised
+Burger
+70
+8
